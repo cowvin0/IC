@@ -1,0 +1,17 @@
+---
+title: "DINÂMICA HIDRO-BIOGEOMORFOLÓGICA DE RIOS INTERMITENTES – O IMPACTO DO PROJETO
+  DE INTEGRAÇÃO DO RIO SÃO FRANCISCO (PISF) NA DINÂMICA E ESTRUTURA FLUVIAL"
+author: "Gabriel de Jesus Pereira"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introdução 
+
+Este relátorio é fruto do trabalho desenvolvido enquanto bolsista PIBIC na modalidade Iniciação Científica, sob a orientação do professor Jonas Otaviano Praça de Souza. A ideia central do projeto consiste em analisar as diferenças processuais e morfológicos geradas pela operação do Projeto de Integração do Rio São Francisco no Alto Curso do Rio Paraíba. Inicialmente, tivemos que entender sobre o sistema fluvial e, para isso, foram indicados os artigos científicos SISTEMA FLUVIAL E PLANEJAMENTO LOCAL NO SEMIÁRIDO (SOUZA E CORREIA, 2012) e DOS SISTEMAS AMBIENTAIS AO SISTEMA FLUVIAL – UMA REVISÃO DE CONCEITOS (SOUZA, 2013). A partir dessa análise inicial será possível identificar como as mudanças, de cunho antrópico, geram modificações na estrutura e morfologia fluvial. Assim, pode-se prever e monitorar essas modificações. Além do objeto geral de estudo, pretende-se também classificar os diferentes estilos fluviais e analisar a conectividade da paisagem dos trechos, avaliar o comportamento da sazonalidade da vegetação em relação aos eventos de precipitação, relacionar o impacto eventos extremos de precipitação com a sazonalidade da densidade da vegetação, analisar a dinâmica fluvial no alto curso do rio Paraíba e sua variação após a implementação do PISF e identificar os efeitos das mudanças hidrológicas sobre os padrões biogeomorfológicos das margens. Para isso, foram recomendados outros artigos científicos . Sendo eles CARACTERIZAÇÃO E ESPACIALIZAÇÃO DA PRECIPITAÇÃO EM BACIA HIDROGRÁFICA COM RELEVO COMPLEXO: SERTÃO CENTRAL PERNAMBUCANO – BACIA DO RIACHO DO SACO (SOUZA, ALMEIDA E CORREIA, 2015), PROCESSOS FLUVIAIS EM TERRAS SECAS: uma revisão (SOUZA E ALMEIDA, 2015), IMPEDIMENTOS DE TRANSMISSÃO NO SISTEMA FLUVIAL E A CONECTIVIDADE DA PAISAGEM (SOUZA E BRANCO, 2020), CONECTIVIDADE E ÁREA DE CAPTAÇÃO EFETIVA DE UM SISTEMA FLUVIAL SEMIÁRIDO: BACIA DO RIACHO MULUNGU, BELÉM DE SÃO FRANCISCO - PE (SOUZA E CORREA, 2012), Influence of seasonal vegetation dynamics on hydrological connectivity in tropical drylands (SOUZA E HOOKE, 2021).
+
+
+Este relátorio é fruto do trabalho desenvolvido enquanto bolsista PIBIC na modalidade Iniciação Científica, sob orientação do professor Jonas Otaviano Praça de Souza. A ideia central do projeto consiste em analisar as diferenças processuais e morfológicos geradas pela operação do Projeto de Integração do Rio São Francisco no Alto Curso do Rio Paraíba. Pois assim seria possível 
