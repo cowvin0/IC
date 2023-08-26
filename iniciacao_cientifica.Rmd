@@ -37,9 +37,9 @@ O propósito principal da pesquisa foi analisar o comportamento hidrológico, ec
 
 Os objetivos específicos da pesquisa se consistiram em classificar os diferentes estilos fluviais e analisar a conectividade  da paisagem dos trechos, avaliar o comportamento da sazonalidade da vegetação em relação aos eventos de precipitação, relacionar o impacto eventos extremos da precipitação com a sazonalidade da densidade da vegetação, analisar a dinâmica fluvial no alto curso do Rio Paraíba e sua variação após a implementação do PISF e identificar os efeitos das mudanças hidrológicas sobre os padrões biogeomorfológicos das margens.
 
-# Metodologia
+# Materiais e Métodos
 
-
+O projeto foi desenvolvido junto ao Grupo de Estudos de Sistemas Fluviais Semiáridos (GEAFS) e também contou com o Laboratório de Estudos Fluviais (LEF). Para o desenvolvimento das atividades foi preciso fazer a coleta de dados de chuva e vazão, utilizando a plataforma Hidroweb, que faz parte Agência Nacional de Águas e Saneamento Básico (ANA).
 
 # Resultados e discussão
 
