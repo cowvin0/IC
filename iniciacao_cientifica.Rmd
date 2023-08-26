@@ -39,7 +39,7 @@ Os objetivos específicos da pesquisa se consistiram em classificar os diferente
 
 # Materiais e Métodos
 
-O projeto foi desenvolvido junto ao Grupo de Estudos de Sistemas Fluviais Semiáridos (GEAFS) e também contou com o Laboratório de Estudos Fluviais (LEF). Para o desenvolvimento das atividades foi preciso fazer a coleta de dados de chuva e vazão, utilizando a plataforma Hidroweb, que faz parte Agência Nacional de Águas e Saneamento Básico (ANA).
+O projeto foi desenvolvido junto ao Grupo de Estudos de Sistemas Fluviais Semiáridos (GEAFS) e também contou com o Laboratório de Estudos Fluviais (LEF). Para o desenvolvimento das atividades foi preciso fazer a coleta de dados de chuva e vazão, utilizando a plataforma Hidroweb, que faz parte Agência Nacional de Águas e Saneamento Básico (ANA). Para prosseguir com a análise dos dados, foi necessário o entendimento sobre classificação dos estilos fluviais e conectividade da paisagem, comportamento hidrológico e análise dos padrões de precipitação, análise da sazonalidade da vegetação em relação aos eventos de precipitação e identificação e monitoramento de mudanças nos estilos fluviais. Assim, foram disponibilizados cursos no canal do GEAFS do Youtube sobre Geografia Física Aplicada, Geomorfologia Fluvial e Análise e Reagilitação de Ambiente Fluviais Semiáridos, Dinâmica Ambiental do Semiárido, Paisagens Geomorfológicas do Semiárido Brasileiro. Dessa forma, foi possível compreender, por exemplo, que 
 
 # Resultados e discussão
 
