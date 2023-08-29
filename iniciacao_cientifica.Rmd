@@ -3,8 +3,8 @@ title: "DINÂMICA HIDRO-BIOGEOMORFOLÓGICA DE RIOS INTERMITENTES – O IMPACTO D
   DE INTEGRAÇÃO DO RIO SÃO FRANCISCO (PISF) NA DINÂMICA E ESTRUTURA FLUVIAL"
 author: "Gabriel de Jesus Pereira"
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -46,14 +46,14 @@ Os objetivos específicos da pesquisa se consistiram em classificar os diferente
 
 # Materiais e Métodos
 
-O projeto foi desenvolvido junto ao Grupo de Estudos de Sistemas Fluviais Semiáridos (GEAFS) e também contou com o Laboratório de Estudos Fluviais (LEF). Para o desenvolvimento das atividades foi preciso fazer a coleta de dados de chuva e vazão, utilizando a plataforma Hidroweb, que faz parte Agência Nacional de Águas e Saneamento Básico (ANA). Para prosseguir com a análise dos dados, foi utilizado a linguagem de programação Python, utilizando Jupyter Lab. Utilizando a mesma, foram realizados transformações no banco de dados para que representasse, por exemplo, a variável Ano apenas como uma coluna, para que os anos não fossem representados como variáveis do banco de dados. Foram também calculados a máxima e mínima da precipitação anual, a média anual de precipitação, a máxima e mínima de dias de chuva no ano. O mesmo foi feito para os dados de vazão. Após os cálculos dessas variáveis, foram coletados mais dados, agora da plataforma Map Biomas. Esses dados se tratam de hectares de floresta, agricultura, mangue, formação florestal, formação savância. Assim, foram realizado o cruzamento dos dados de chuva da plataforma Hidroweb com os dados da plataforma Map Biomas. Após o cruzamento desses dados, utilizando-se o a variável ano como base, foram comparados a máxima de chuva por ano e os hectares de floresta, formação florestal, formação savânica, mangue e agricultura. Dessa forma, seria possível cálcular uma correlação de Pearson para se analisar a relação entre essas duas variáveis. Todo o estudo foi realizado com estações do município de Piancó - PB.   
+O projeto foi desenvolvido junto ao Grupo de Estudos de Sistemas Fluviais Semiáridos (GEAFS) e também contou com o Laboratório de Estudos Fluviais (LEF). Para o desenvolvimento das atividades foi preciso fazer a coleta de dados de chuva e vazão, utilizando a plataforma Hidroweb, que faz parte Agência Nacional de Águas e Saneamento Básico (ANA). Para prosseguir com a análise dos dados, foi utilizado a linguagem de programação Python, utilizando Jupyter Lab. Utilizando a mesma, foram realizados transformações no banco de dados para que representasse, por exemplo, a variável Ano apenas como uma coluna, para que os anos não fossem representados como variáveis do banco de dados. Foram também calculados a máxima e mínima da precipitação anual, a média anual de precipitação, a máxima e mínima de dias de chuva no ano. O mesmo foi feito para os dados de vazão. Após os cálculos dessas variáveis, foram coletados mais dados, agora da plataforma Map Biomas. Esses dados se tratam de hectares de floresta, agropecuária, formação savância e pastagem. Assim, foram realizado o cruzamento dos dados de chuva da plataforma Hidroweb com os dados da plataforma Map Biomas. Após o cruzamento desses dados, utilizando-se o a variável ano como base, foram comparados a máxima de chuva por ano e os hectares de floresta, pastagem, formação savânica e agropecuária. Dessa forma, seria possível cálcular uma correlação de Pearson para se analisar a relação entre essas duas variáveis. O estudo foi realizado com estações localizadas no município de Piancó, na Paraíba, utilizando os anos de 2008, 2010 e 2014 como referência.   
 
 # Resultados e discussão
 
-
+Utilizando-se a base de dados do Map Biomas e da plataforma da Hidroweb, foram calculados coeficientes de Pearson para se analisar a relação entre a máxima de chuva por ano e os hectares de floresta, formação savânica, agropecuária e pastagem. Assim, foi feito um agrupamento utilizando as classes para o cálculo da correlação de Pearson. Observando a correlação entre a classe floresta e a máxima de precipitação anual, vemos que apresenta uma correlação de pearson de -20,35% e de 18.42% e 21.19% para hectares de agropecuária e pastagem, respectivamente. Assim, vemos que os hectares da pastagem parece ser a mais influenciada pela máxima da precipitação anual.
 
 # Conclusão
 
-
+A análise das correlações entre cada classe e a máxima precipitação anual, nos mostram a influência e a relação que cada classe analisada, floresta, formação savânica, agropecuária e pastagem se comportam com a máxima de chuva por ano. Ainda, perceba que as relações entre as classes e a variável máxima precipitação anual se comportam de maneira similar. No entanto, houve uma predominância de correlação de Pearson positivas. Ou seja, há um aumento dos hectares de pastagem e agropecuária, a medida que a precipitação máxima anual aumenta. Por outro lado, observe que acontece o contrário para a correlação entre hectares de floresta e a precipitação máxima anual, há uma relação inversamente proporcional, Assim, os dados analisados indicam que há um diminuição dos hectares da floresta a medida que a máxima de precipitação anual.
 
 # Referências bibliográficas
